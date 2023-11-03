@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Ben Jensen.
-# I am currently learning web development using The Odin Project Curriculum.
-# I am a Computer Engineering student at Brigham Young University.
-# I like to do cool nerd things. 
+I am currently learning web development using The Odin Project Curriculum.
+I am a Computer Engineering student at Brigham Young University.
+I like to do cool nerd things. 
 
 <!--
 **jenbensen17/jenbensen17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
