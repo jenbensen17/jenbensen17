@@ -1,17 +1,29 @@
-### Hi there 👋 I'm Ben Jensen.
+# Hello, I'm Ben Jensen! 👋
 
+Welcome to my GitHub profile!
 
-<!--
-**jenbensen17/jenbensen17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me ℹ️
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning about Data Structures and Algorithms.
+- 💼 I'm working as a Computer Technicain at BYU College of Engineering.
+- 🎓 I am studying Computer Engineering.
+- 📫 How to reach me: jenbensen17@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills and Technologies 💻
+
+- Languages: Java, C, C++, Python, Javascript, HTLML, CSS
+- Tools: Git, JetBrains, VS Code
+
+## Projects 🚀
+
+For a complete list of projects, please check the repositories tab.
+
+## Connect with Me 🌐
+
+- [LinkedIn]https://www.linkedin.com/in/benjamin-m-jensen
+
+Feel free to connect and say hi!
+
+## Stats 📊
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your_username&show_icons=true)
