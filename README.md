@@ -4,7 +4,7 @@ Welcome to my GitHub profile!
 
 ## About Me ℹ️
 
-- 🌱 I’m currently learning about Data Structures and Algorithms.
+- 🎓 I’m currently learning about Data Structures and Algorithms.
 - 💼 I'm working as a Computer Technicain at BYU College of Engineering.
 - 🎓 I am studying Computer Engineering.
 - 📫 How to reach me: [Email](jenbensen17@gmail.com)
@@ -23,7 +23,3 @@ For a complete list of projects, please check the repositories tab.
 - [LinkedIn](https://www.linkedin.com/in/benjamin-m-jensen)
 
 Feel free to connect and say hi!
-
-## Stats 📊
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your_username&show_icons=true)
