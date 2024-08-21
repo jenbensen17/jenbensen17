@@ -11,7 +11,7 @@ Welcome to my GitHub profile!
 
 ## Skills and Technologies 💻
 
-- Languages: Java, C, C++, Python, Javascript, HTLML, CSS
+- Languages: Java, C, C++, Python, Javascript, HTML, CSS
 - Tools: Git, JetBrains, VS Code
 
 ## Projects 🚀
