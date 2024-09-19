@@ -1,4 +1,4 @@
-# Hello, I'm Benjamin M. Jensen! 👋
+# Hello, I'm Ben Jensen! 👋
 
 Welcome to my GitHub profile!
 
